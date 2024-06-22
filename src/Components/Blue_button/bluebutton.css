@@ -1,0 +1,15 @@
+.btn {
+    display: inline-block;
+    font-weight: 600;
+    text-decoration: none;
+    letter-spacing: -0.05em;
+    background-color: var(--clr-primary);
+    color: #f1f5f9;
+    padding: 0.25em 1em;
+    border-radius: 6px;
+    transition:  background-color 0.2s;
+  }
+
+.btn:hover {
+    background-color: var(--clr-secondary);
+  }
